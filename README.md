@@ -44,7 +44,7 @@ Catharsis Luxe is an innovative project focused on integrating **advanced techno
 
 ### 🔗 Important Links:
 - 🌐 [Official Website](https://www.catarsisluxe.com)
-- 📩 **Contact**: info@catarsisluxe.com
+- 📩 **Contact**: contact@catarsisluxe.com
 
 ---
 
